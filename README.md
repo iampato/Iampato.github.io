@@ -5,7 +5,7 @@ my personal resume
 <ul>
 <li>Python Intermediate</li>
 <li>Flutter</li>
-<li>Web Pro<l/i>
+  <li>Web Pro <b>But I hate Javascript</b><l/i>
 <li>C# Advanced</li>
 <li>Java Intermeidate</li>
 <li>Tensorflow Beginner</li>
