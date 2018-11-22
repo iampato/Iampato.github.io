@@ -7,7 +7,7 @@ my personal resume
 <li>Flutter</li>
   <li>Web Pro <b>But I hate Javascript</b><l/i>
 <li>C# Advanced</li>
-<li>Java Intermeidate</li>
+<li>Java Intermiedate</li>
 <li>Tensorflow Beginner</li>
 
 <ul>
