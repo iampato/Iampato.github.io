@@ -1,4 +1,4 @@
-# https://iampato.ninja
+# https://iampato.me
 my personal resume
 <br>
 <H2>My super powers</h2>
