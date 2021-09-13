@@ -17,3 +17,9 @@ body {
 img {
     height: 35px;
 }
+
+@media (max-width:480px) {
+    #home-title {
+        font-size: 32px;
+    }
+}
