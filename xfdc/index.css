@@ -1,0 +1,93 @@
+body {
+    font-family: Muli, sans-serif;
+    margin: 0;
+    background: #f3f4f6;
+    font-size: 15px;
+    color: #8a98ac;
+    line-height: 1.5;
+}
+
+#app {
+    margin-top: 3rem;
+    margin-right: 19px;
+    margin-left: 19px;
+}
+
+.container {
+    background-color: white;
+    max-width: 83.333333%;
+    margin: auto;
+}
+
+.col {
+    padding: 9px 20px;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    min-width: 0;
+    word-wrap: break-word;
+    align-self: center;
+    align-items: center;
+}
+
+img {
+    width: 130px;
+    margin-top: -14px;
+    margin-bottom: 40px;
+}
+
+h2 {
+    font-weight: 700!important;
+    margin-top: 0;
+    font-size: 26px;
+    color: #263a5b;
+    margin-bottom: 1.8rem;
+}
+
+.content {
+    font-size: 24px!important;
+    color: #282828!important;
+    line-height: 1.5;
+    letter-spacing: 0.6px;
+}
+
+.table-responsive {
+    display: block;
+    width: 100%;
+    overflow-x: auto;
+    padding-top: 1rem !important;
+}
+
+.table {
+    margin-bottom: 10px;
+    color: #263a5b;
+    display: table;
+    width: 100%;
+    border-collapse: collapse;
+    text-indent: 0;
+    border-color: inherit;
+    outline: none!important;
+}
+
+.table thead th {
+    vertical-align: bottom;
+    font-weight: 600;
+    text-transform: capitalize;
+    padding: 0.7rem;
+    background: rgba(226, 226, 227, .4);
+    font-size: 24px!important;
+    text-align: -webkit-match-parent;
+}
+
+.table td {
+    color: #263a5b;
+    vertical-align: middle;
+    padding: 1rem;
+    border-top: 1px solid rgba(0, 0, 0, .03);
+    font-size: 16px;
+}
+
+.font-24 {
+    font-size: 24px!important;
+}
